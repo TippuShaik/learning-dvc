@@ -1,1 +1,1 @@
-Versioning your data with DVC
+Version your data with DVC
